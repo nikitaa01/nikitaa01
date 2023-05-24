@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/80328000?s=400&u=9e860ddf1ef9d24777ed5ae8ea95b1bd3c22666c&v=4" alt="Foto de perfil" width="150">
 <h2>¡Hola 👋! Soy Nikita Kuzmenko. Desarrollador TypeScript / JavaScript Full Stack</h2>
-<a href="https://www.linkedin.com/in/nikitaakuzmenko/">LinkedIn</a>
+<a target="_blank" href="https://www.linkedin.com/in/nikitaakuzmenko/">LinkedIn</a>
 
 <hr>
 
