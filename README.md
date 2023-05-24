@@ -4,6 +4,8 @@
 
 <hr>
 
+### Habilidades y Tecnologías 💼
+
 | Lenguajes 💻 | Tecnologías 🔧 | Skils 🚀 |
 | ------------ | -------------- | -------- |
 | TypeScript   | Node.js        | REST     |
